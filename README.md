@@ -1,1 +1,1 @@
-# vanguard-expedition-labs.github.io
+# vanguardexpeditionlabs.github.io
